@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my CV [here](files/cv_2pages.pdf)
+You can find my CV [here](http://pranjalrs.github.io/files/cv_2pages.pdf)
